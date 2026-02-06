@@ -8,19 +8,13 @@ I am a **Software Engineering & Data Science** student with a deep interest in t
 - 🛠️ **Systems Programming:** Refining my skills in C and low-level data structures.
 
 ### 🧠 Fields of Interest
-- **FinTech & Economics:** I'm fascinated by the stock market, IPO structures, and how credit systems work.
-- **Philosophy & Theology:** I enjoy debating the nuances of faith, reason, and religious studies.
-- **Classical Music:** Big fan of early 20th-century composers, especially the works of Claude Debussy.
+
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C, JavaScript (ES6+), SQL
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS
 - **Tools:** Git, GitHub, VS Code, LaTeX
 
-### 🌱 On a Personal Note
-- 🏔️ **Hiking:** When I'm back in Kathmandu, you'll likely find me on a trail in the valley.
-- 🏋️ **Fitness:** Currently focused on upper body hypertrophy and learning about the science of fasting and autophagy.
-- 🎨 **Art:** I enjoy visiting galleries, from the Frist Art Museum in Nashville to the Nepal Art Council.
 
 ---
 
